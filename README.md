@@ -5,7 +5,7 @@
 
 - ✨ I am open to work looking for a job 
 
-- 🛎️ You'r welcome to talk in 🇫🇷🇧🇷🇺🇸
+- 🛎️ You are welcome to talk in 🇫🇷🇧🇷🇺🇸
 
 ## 💻 Some Web Projects
 <table>
